@@ -1,1 +1,1 @@
-This folder contains the files needed to run the Bayesian scheme for ecosys.
+This folder contains the files needed to run the Bayesian scheme for ecosys. main.m is the primary run file and invokes all others. Ecosys must be compiled and in the correct directory framework for this to work.
